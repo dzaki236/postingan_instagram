@@ -7,5 +7,6 @@
 * [Instagram](https://www.instagram.com/lemonic.dev_/)
 
 ```
-Bila merasa terbantu jangan lupa berbagi juga ke sesama :)
+Bila merasa terbantu jangan lupa berbagi juga ke sesama dan sama sama belajar :)
 ```
+# Terima kasih ~dz
