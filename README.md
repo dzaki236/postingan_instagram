@@ -7,7 +7,7 @@
 * [Instagram](https://www.instagram.com/lemonic.dev_/)
 ### Cara menggunakannya
 * buka terminal / git bash pada perangkat
-* type ```$ git clone https://github.com/dzaki236/postingan_instagram.git```('$')
+* type ```$ git clone https://github.com/dzaki236/postingan_instagram.git```(tanpa '$')
 * type ```$ cd postingan_instagram``` (tanpa '$')
 * buka / drag & drop dengan kode editor favorite mu
 ```
