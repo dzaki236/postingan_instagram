@@ -1,6 +1,7 @@
 # WELCOME!
 ### Disclaimer !
 * Repository ini berisi sample sample / contoh kode yang ada di postingan mimin~!
+* Contoh kode akan mimin masukkan kedalam folder,agar lebih rapih
 * Sample sample kode yang ada di postingan @lemonic.dev di insagram ada di sini,dan akan mimin taruh di repository ini :)~ ...
 * Ingin melihat postingannya?,bisa klik instagram,dengan keyword '@lemonic.dev'
 ### Social media
