@@ -4,10 +4,10 @@
 * Sample sample kode yang ada di postingan @lemonic.dev di insagram ada di sini,dan akan mimin taruh di repository ini :)~ ...
 * Ingin melihat postingannya?,bisa klik instagram,dengan keyword '@lemonic.dev'
 ### Social media
-<hr>
+---
 * [Instagram](https://www.instagram.com/lemonic.dev_/)
 ### Cara menggunakannya
-<hr>
+---
 * buka terminal / git bash pada perangkat
 * type ```$ git clone https://github.com/dzaki236/postingan_instagram.git```(tanpa '$')
 * type ```$ cd postingan_instagram``` (tanpa '$')
