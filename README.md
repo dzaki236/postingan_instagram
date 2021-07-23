@@ -5,6 +5,8 @@
 * Ingin melihat postingannya?,bisa klik instagram,dengan keyword '@lemonic.dev'
 ### Social media
 * [Instagram](https://www.instagram.com/lemonic.dev_/)
+### Cara menggunakannya
+* type ```$ git clone ```
 
 ```
 Bila merasa terbantu jangan lupa berbagi juga ke sesama dan sama sama belajar :)
