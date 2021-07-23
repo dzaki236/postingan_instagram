@@ -1,4 +1,5 @@
 # WELCOME!
+- hi nama saya dzaki ahnaf, dzaki236 on github a.k.a lemonic.dev
 ### Disclaimer !
 * Repository ini berisi sample sample / contoh kode yang ada di postingan mimin~!
 * Contoh kode akan mimin masukkan kedalam folder,agar lebih rapih
